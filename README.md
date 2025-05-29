@@ -1,7 +1,5 @@
 # ¡Hi! 👋 I'm Julian Andrés Valencia
 
-text, text
-
 ---
 
 ## 🚀 About Me
