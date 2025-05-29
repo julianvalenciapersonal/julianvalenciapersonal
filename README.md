@@ -29,9 +29,9 @@
   🔗 [Ver repositorio](https://github.com/Proyecto-Integrador-II-Nexus-Battles)
 
 - 🍔 **Best Burger** – App para calificar hamburguesas de distintos restaurantes.  
-  🔗 [Ver repositorio](https://github.com/julianvalenciapersonal/bestburger)
+  🔗 [Ver repositorio](https://github.com/BestBurgerPI3)
 
 - 🧾 **PDF Maker** – Sistema distribuido para convertir archivos a PDF desde URLs o documentos.  
-  🔗 [Ver repositorio](https://github.com/julianvalenciapersonal/pdf-maker)
+  🔗 [Ver repositorio](https://github.com/FAJS7)
 
 
