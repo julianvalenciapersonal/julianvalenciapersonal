@@ -1,4 +1,4 @@
-# ¡Hi! 👋 I'm Julian Andrés Valencia
+# ¡Hi! I'm Julian Andrés Valencia
 
 ---
 
